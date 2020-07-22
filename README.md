@@ -1,7 +1,7 @@
 # Network Ping
 ### TCP
-#### tcp-server.py
-#### tcp-client.py
+* tcp-server.py
+* tcp-client.py
 ### UDP
-#### udp-server.py
-#### udp-client.py
+* udp-server.py
+* udp-client.py
