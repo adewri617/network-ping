@@ -4,8 +4,7 @@ import time
 import socket
 
 pings = 1
-# stop pinging after 10 times
-    # for pings in range(10):
+
 # keep pinging
 while True:
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
