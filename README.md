@@ -6,6 +6,7 @@
 ### TCP Server File(s)
 * tcp-server.py
 ### TCP Client File(s)
+* tcp-client.py
 ### UDP Server File(s)
 * udp-simple-client.py
 * udp-advance-client.py
