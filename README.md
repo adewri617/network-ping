@@ -3,11 +3,12 @@
 ```python3 <server file name>```
 ### Run Client
 ```python3 <client file name>```
-### TCP
+### TCP Server File(s)
 * tcp-server.py
-* tcp-client.py
-### UDP
-* udp-simple-server.py
+### TCP Client File(s)
+### UDP Server File(s)
 * udp-simple-client.py
-* udp-advance-server.py
+* udp-advance-client.py
+### UDP Client File(s)
+* udp-simple-client.py
 * udp-advance-client.py
